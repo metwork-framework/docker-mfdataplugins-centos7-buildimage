@@ -1,0 +1,1 @@
+# docker-mfdataplugins-centos7-buildimage
